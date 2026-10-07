@@ -1,49 +1,18 @@
-# Kishan Verma · CodeShalaByKMFL
+# 💫 About Me:
+## About Me<br><br>Hi, I'm **Kishan**, owner of **CodeshalaByKMFL** — a low-fee coding platform where students learn any programming language without spending much money. I'm based in **Ghaziabad, India**.<br><br>I spend most of my day coding with AI, building apps, and teaching students. My goal is simple: make coding education affordable for everyone.<br><br>**What I do:**<br>- Teach programming at a price every student can afford<br>- Build Android apps for schools, farmers, and creators<br>- Run the CodeshalaByKMFL YouTube channel<br>- Build tools that help farming communities<br><br>**Projects:**<br>- **CodeshalaByKMFL** — low-fee coding learning platform<br>- **SDIC App** — school notifications for Shambhu Dayal Inter College students<br>- **Kishano Ki Baat App** — video app for Kishano Ki Baat channel subscribers<br><br>**Hobbies:** Coding with AI for 12 hours, teaching, building apps for students & farmers
 
-<p align="center">
-  <img src="assets/hero.svg?v=1" alt="Kishan Verma — CodeShalaByKMFL hero" width="900">
-</p>
 
-<p align="center">
-  <img src="assets/about-life.svg?v=1" alt="About Kishan Verma and interests" width="900">
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codeshalabykmfl) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCsbkZu6NS0howMocvBZa65A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k9891p@gmail.com) 
 
-<p align="center">
-  <img src="assets/stack.svg?v=1" alt="Kishan Verma technology stack" width="900">
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kis566&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kis566&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kis566&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="assets/id-dashboard.svg?v=1" alt="Kishan Verma builder ID dashboard" width="900">
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=kis566&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="assets/connect.svg?v=1" alt="Kishan Verma social connections" width="900">
-</p>
-
-## Projects
-
-| Project | What it does |
-|---|---|
-| **CodeShalaByKMFL** | Student-first coding platform focused on practical learning at a low fee. |
-| **SDIC Shambhu Dayal Inter College App** | Helps students receive school notifications without needing to share a phone number for a messaging group. |
-| **Kishano Ki Baat App** | A companion app for the Kishano Ki Baat channel so subscribers can watch videos in the app. |
-
-## Find me online
-
-- [GitHub — KIS566](https://github.com/KIS566)
-- [YouTube — CodeShalaByKMFL](https://youtube.com/@codeshalabykmfl?si=3qk3yAS4JXCUmkOp)
-- [Instagram — @codeshalabykmfl](https://www.instagram.com/codeshalabykmfl?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==)
-
-## Verified profile snapshot
-
-**Checked: 07 October 2026** · 131 public repositories · 2 profile stars. Unknown metrics are intentionally omitted.
-
-> Learn. Build. Grow.
-
-### Local preview
-
-Open `preview.html` locally to inspect all sections without a network connection.
-
-### Credits & licenses
-
-See [LICENSES.md](LICENSES.md) and [SOURCES.md](SOURCES.md).
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
